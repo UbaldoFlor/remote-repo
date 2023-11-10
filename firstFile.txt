@@ -1,5 +1,5 @@
-first line
-second line
+first line - Updating from folder2 git_1
+second line - Updating from folder2 git_1
 third line
 fourth line
 fifth line
