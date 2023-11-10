@@ -4,7 +4,7 @@ third line
 fourth line
 fifth line
 sixth line
-seventh line
-eighth line
+seventh line - Updating two lines according to step 8
+eighth line - Updating two lines according to step 8
 ninth line - Updating two lines according to step 7
 tenth line - Updating two lines sccording to step 7
